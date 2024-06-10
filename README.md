@@ -1,4 +1,4 @@
-# AutoLandMap
+# Automatic Land Cover Mapping Project
 
 The project presented concerns “Automated land cover mapping” using Machine Learning and image processing techniques. Its aim is to classify land areas into categories such as tree cover, agricultural land or urban areas from satellite images.
 
